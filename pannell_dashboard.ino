@@ -82,8 +82,6 @@ void loop(){
   client.println("<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->");
   client.println("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">");
   client.println("<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">");
-  client.println("<meta name=\"author\" content=\"xxxxxxxxxx\" />");
-  client.println("<meta name=\"copyright\" content=\"xxxxxxxxxxx\"/>");
   client.println("<title>Dashboard | Flashlight</title>");
   client.println("<meta name=\"description\" content=\"Dashboard IOT\"/>");
   client.println("<!--[if lt IE 9]><script src=\"https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js\"></script><![endif]-->");
