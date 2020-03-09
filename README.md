@@ -12,9 +12,10 @@
 
 ## Schema elettrico
 
-![Immagine schema elettrico](Domodashboard-flashlight.jpg)
+![Immagine schema elettrico](domodashboard-flashligh.jpg)
 
 Il pannello progettato è allo stato embrionale pian piano verrà modificato rendendolo sempre più accattivante.
 
 ## Come funziona
-Una volta avviato basta andare nel monitor di arduino leggere l'indirizzo alla quale è stato caricato e collegarsi con qualsiasi dispositivo che può essere uno smartphone, pc , tablet a vostra scelta.
+**Inserite nel codice il vostro ssid della connesione la password e mandatelo ad arduino.**
+Una volta avviato basta andare nel **monitor di arduino** leggere l'indirizzo alla quale è stato caricato e collegarsi con qualsiasi dispositivo che può essere uno smartphone, pc , tablet a vostra scelta.
