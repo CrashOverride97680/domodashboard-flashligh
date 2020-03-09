@@ -1,4 +1,5 @@
- # Domo Dashboard-flashligh
+# Domo Dashboard-flashligh
+
  Questo progetto è stato ideato come progetto embrione di un sistema che piano piano diventerà **IOT** personalizzabile al massimo.
  In un era in cui tutto può diventare smart dal frullatore di casa, la televisione, ecc.
  Nasce come un esperimento il cui scopo è quello di dimostrare l'unione tra informatica e elettronica a livello hobbistico ma niente dice che possa diventare qualcosa di grande grazie al vostro aiuto.
@@ -7,8 +8,8 @@
 
 ## Lista componenti
 
- - Wemos D1 con esp8266
- - Modulo relay a 2 canali 5V
+- Wemos D1 con esp8266
+- Modulo relay a 2 canali 5V
 
 ## Schema elettrico
 
@@ -17,5 +18,6 @@
 Il pannello progettato è allo stato embrionale pian piano verrà modificato rendendolo sempre più accattivante.
 
 ## Come funziona
+
 **Inserite nel codice il vostro ssid della connesione la password e mandatelo ad arduino.**
 Una volta avviato basta andare nel **monitor di arduino** leggere l'indirizzo alla quale è stato caricato e collegarsi con qualsiasi dispositivo che può essere uno smartphone, pc , tablet a vostra scelta.
