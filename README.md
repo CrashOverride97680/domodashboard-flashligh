@@ -12,7 +12,7 @@
 
 ## Schema elettrico
 
-![Immagine schema elettrico](domodashboard-flashligh.jpg)
+![Immagine schema elettrico](/Domodashboard-flashligh.jpg)
 
 Il pannello progettato è allo stato embrionale pian piano verrà modificato rendendolo sempre più accattivante.
 
